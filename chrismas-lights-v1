@@ -1,4 +1,3 @@
-```C
 int led = 3;
 int led1 = 5;
 int led2 = 7;
@@ -84,4 +83,3 @@ void loop() {
      }
    }
 }
-```
